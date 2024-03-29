@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "782198909758",
+    "project_id": "ytapp-6c86f",
+    "storage_bucket": "ytapp-6c86f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782198909758:android:142daa950e86cd5e355a6f",
+        "android_client_info": {
+          "package_name": "com.example.fire_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6shNDaVg9IT8xTIHAxBE-0c1qTneThys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782198909758:android:453e1ccd430dd8fc355a6f",
+        "android_client_info": {
+          "package_name": "com.example.message_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6shNDaVg9IT8xTIHAxBE-0c1qTneThys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782198909758:android:9123273a4dacec55355a6f",
+        "android_client_info": {
+          "package_name": "com.example.msg_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6shNDaVg9IT8xTIHAxBE-0c1qTneThys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
